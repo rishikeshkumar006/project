@@ -17,7 +17,7 @@ const styles = {
   container: {
     textAlign: 'center',
     paddingTop: '100px',
-    backgroundColor: '#f0f4f8',
+    backgroundColor: '#99a3adff',
     height: '100vh',
   },
   title: {
